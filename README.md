@@ -8,4 +8,4 @@
 
 /acmicpc : https://www.acmicpc.net/
 
-/swexportacademy : https://swexpertacademy.com/
+/swexpertacademy : https://swexpertacademy.com/
