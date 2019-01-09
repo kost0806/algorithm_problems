@@ -1,11 +1,16 @@
-개인 공부용으로 풀었던 문제들입니다.
+Algorithm study
+-------
 
-참고하시는거는 좋습니다만, 그대로 쓰진 말아주세요.
+Welcome to my study!
+I'd appreciate all your suggestions for improving my code.
 
-모든 코드는 제 머릿속에서 나왔습니다.
+-----
 
-문제 
+Using Languages:
+* C++
 
-/acmicpc : https://www.acmicpc.net/
+----
 
-/swexpertacademy : https://swexpertacademy.com/
+Sources:
+* /acmicpc : [Baekjoon Online Judge](https://www.acmicpc.net/)
+* /swexpertacademy : [SW Expert Academy](https://swexpertacademy.com/)
