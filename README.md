@@ -1,7 +1,7 @@
 Algorithm study
 -------
 
-Welcome to my study!
+Welcome to my study!  
 I'd appreciate all your suggestions for improving my code.
 
 -----
